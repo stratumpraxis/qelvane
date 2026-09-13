@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stratumpraxis.github.io/qelvane/sitemap.xml
